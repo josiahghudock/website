@@ -331,7 +331,7 @@ nav .fas{
     #header{
         background-image: url(profile1test.png);
         background-size: 180%;
-        flex-wrap: nowrap;
+        background-repeat: no-repeat;
     }
     .header-text{
         margin-top: 100%;
