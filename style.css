@@ -14,7 +14,7 @@ html{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(profile1test.png);
+    background-image: url(waitingnobg.png);
     background-size: cover;
     background-position: center;
 }
@@ -330,9 +330,9 @@ nav .fas{
     #header{
         width: 100%;
         height: 80vh;
-        background-image: url(profile1testphone.png);
+        background-image: url(profile1.png);
         background-size: cover;
-        background-position: center;
+        background-position: right;
 
     }
     .header-text{
